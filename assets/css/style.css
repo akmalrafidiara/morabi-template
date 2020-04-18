@@ -393,7 +393,7 @@ img {
 }
 /* End section8 */
 @media screen and (max-width:500px) {
-  .container {
-    width: 100%;
+  html {
+    max-width: 500px;
   }
 }
