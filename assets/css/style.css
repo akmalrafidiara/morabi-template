@@ -394,6 +394,6 @@ img {
 /* End section8 */
 @media screen and (max-width:500px) {
   html {
-    max-width: 500px;
+    width: 500px;
   }
 }
